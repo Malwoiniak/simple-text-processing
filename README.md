@@ -1,5 +1,5 @@
 # simple-text-processing
-First project ever. Basic text processing with Python. 
+> First project ever. Basic text processing with Python. 
 
 ## Table of contents
 * [General info](#general-info)
@@ -10,7 +10,7 @@ First project ever. Basic text processing with Python.
 ## General info
 **Text source:** an extract of Charles Chaplin final speech from "The Great Dictator".
 
-**Analysis performed:** words&sentences count, ordering by length (and extracting the longest), sorting alphabetically.
+**Actions:** words&sentences count, ordering by length (and extracting the longest), sorting alphabetically.
 
 ## Technologies
 * Python 3.7
